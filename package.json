@@ -1,0 +1,13 @@
+{
+  "name": "auto-restart-mc-server-on-file-change",
+  "version": "1.0.0",
+  "description": "auto restarts minecraft server on file change",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
